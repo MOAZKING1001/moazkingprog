@@ -169,6 +169,7 @@ body hr {
     max-width: 90%;
     max-height: 300px;
     margin: 10px 0;
+    border-radius: 8px;
 }
 
 .about p {
