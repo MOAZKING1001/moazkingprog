@@ -80,7 +80,7 @@ body hr {
     border-radius: 10px;
 }
 
-.info_box {
+.info {
     width: fit-content;
     max-width: 70%;
     height: fit-content;
@@ -90,7 +90,7 @@ body hr {
     text-align: center;
 }
 
-.info_box img {
+.info img {
     display: block;
     width: 100px;
     max-width: 70%;
@@ -98,7 +98,7 @@ body hr {
     margin: 20px auto;
 }
 
-.info_box h2 {
+.info h2 {
     color: #1c6d8f;
     font-weight: bold;
     min-width: 200px;
@@ -106,7 +106,7 @@ body hr {
     width: fit-content;
 }
 
-.info_box div {
+.info div {
     display: inline-block;
     padding: 7px;
     margin: 15px;
@@ -119,12 +119,12 @@ body hr {
     cursor: default;
 }
 
-.info_box div:hover {
+.info div:hover {
     background-color: #1c6d8f;
     color: white;
 }
 
-.download_box {
+.download {
     margin: 50px auto 90px;
     display: block;
     align-items: center;
@@ -134,7 +134,7 @@ body hr {
     padding: 0 30px;
 }
 
-.download_box a {
+.download a {
     display: block;
     text-decoration: none;
     width: fit-content;
@@ -152,7 +152,7 @@ body hr {
     transition: 0.2s;
 }
 
-.download_box a:hover {
+.download a:hover {
     background-color: #1c6d8f;
     color: white;
 }
