@@ -231,7 +231,7 @@ body hr {
     background-color: #1c6d8f;
 }
 
-.info_box div::selection {
+.info div::selection {
     color: #196c8f;
     background-color: rgb(218, 218, 218);
 }
